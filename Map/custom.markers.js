@@ -109,7 +109,7 @@ UnminedCustomMarkers = {
             text: "The Drunken Orc Bree Tavern",
             textColor: "black", 
             offsetX: 0,
-            offsetY: 20,
+            offsetY: 0,
             font: "bold 10px Calibri,sans serif",
         },
 
