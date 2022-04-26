@@ -88,6 +88,18 @@ UnminedCustomMarkers = {
             offsetY: 20,
             font: "bold 20px Calibri,sans serif",
         },
+	{
+            x: 565,
+            z: -96,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+            text: "Brandywine Bridge",
+            textColor: "red", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 20px Calibri,sans serif",
+        },
 
         // Example 3: Text only
         //{
