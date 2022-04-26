@@ -112,18 +112,6 @@ UnminedCustomMarkers = {
             offsetY: 20,
             font: "bold 10px Calibri,sans serif",
         },
-	{
-            x: 118,
-            z: -11,
-            image: "custom3.pin.png",
-            imageAnchor: [0.5, 1],
-            imageScale: 0.2,
-            text: "Bree Armourer",
-            textColor: "blue", 
-            offsetX: 0,
-            offsetY: 20,
-            font: "bold 10px Calibri,sans serif",
-        },
 
         // Example 3: Text only
         //{
