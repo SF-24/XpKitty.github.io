@@ -51,6 +51,19 @@ UnminedCustomMarkers = {
         //    imageScale: 0.5,
         //},
 
+	    
+	{
+            x: 91,
+            z: -53,
+            image: "custom3.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "The Drunken Orc\nBree Tavern",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 4,
+            font: "bold 10px Calibri,sans serif",
+        },
         // Example 2: Marker with text
         {
             x: 112,
@@ -100,18 +113,7 @@ UnminedCustomMarkers = {
             offsetY: 20,
             font: "bold 20px Calibri,sans serif",
         },
-	{
-            x: 91,
-            z: -53,
-            image: "custom3.pin.png",
-            imageAnchor: [0.5, 1],
-            imageScale: 0.2,
-            text: "The Drunken Orc\nBree Tavern",
-            textColor: "black", 
-            offsetX: 0,
-            offsetY: 4,
-            font: "bold 10px Calibri,sans serif",
-        },
+
 
         // Example 3: Text only
         //{
