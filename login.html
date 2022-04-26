@@ -1,0 +1,42 @@
+<DOCTYPE html>
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="UTF-8">
+	<meta name="author" content"XpKitty">
+	<meta name="description" content"test">
+	<meta name="keywords" content"Test, Testowanie">
+    <title>LOG IN</title>	<script type="text/javascript">
+		 
+	document.getElementById("password").focus();
+	function checklogin(){
+        var password= document.getElementById("password").value;
+		var usrname = document.getElementById("usrname").value;
+		if(password == "St3ll4r15" && usrname == "XpKitty"){
+            alert("You are signed in");
+			window.location.href = "profile.html";
+        } else if(password == "Bobo123" && usrname == "Bruce Wayne"){
+            alert("You are signed in");
+			window.location.href = "profile_b.html";
+        } else{
+            alert("invalid username or password");
+		}
+     }
+	 function back(){
+		window.location.href = "index.html";
+	 }
+</script>
+</head>
+<body>
+	
+	<h2>LOG IN:</h2>
+	<p style="font-size: 1.2vw">Username:<input id="usrname" type="text"></p>
+	<p style="font-size: 1.2vw">Password:<input id="password" type="password" name = "pwindow"> <br><br>
+	<input id = "button" type="button" value="Sign in" onclick="checklogin()">
+	<input id = "background" type="button" value="Back" onclick="back()"></p>
+	
+	<p id=returntext></p>
+	
+</body>
+</html>
+
+
