@@ -83,7 +83,7 @@ UnminedCustomMarkers = {
             imageAnchor: [0.5, 1],
             imageScale: 0.5,
             text: "Newbury",
-            textColor: "green", 
+            textColor: "black", 
             offsetX: 0,
             offsetY: 20,
             font: "bold 20px Calibri,sans serif",
