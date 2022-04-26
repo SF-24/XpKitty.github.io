@@ -59,7 +59,7 @@ UnminedCustomMarkers = {
             imageAnchor: [0.5, 1],
             imageScale: 0.2,
             text: "The Drunken Orc\nBree Tavern",
-            textColor: "black", 
+            textColor: "white", 
             offsetX: 0,
             offsetY: 4,
             font: "bold 10px Calibri,sans serif",
