@@ -90,7 +90,7 @@ UnminedCustomMarkers = {
         },
 	{
             x: 565,
-            z: -96,
+            z: -94,
             image: "custom.pin.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.5,
