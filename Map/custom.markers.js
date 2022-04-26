@@ -74,7 +74,7 @@ UnminedCustomMarkers = {
             text: "Bree",
             textColor: "red", 
             offsetX: 0,
-            offsetY: 20,
+            offsetY: 10,
             font: "bold 20px Calibri,sans serif",
         },
 		{
@@ -86,7 +86,7 @@ UnminedCustomMarkers = {
             text: "Archet",
             textColor: "red", 
             offsetX: 0,
-            offsetY: 20,
+            offsetY: 10,
             font: "bold 20px Calibri,sans serif",
         },
         {
@@ -98,7 +98,7 @@ UnminedCustomMarkers = {
             text: "Newbury",
             textColor: "black", 
             offsetX: 0,
-            offsetY: 20,
+            offsetY: 10,
             font: "bold 20px Calibri,sans serif",
         },
 	{
@@ -110,7 +110,7 @@ UnminedCustomMarkers = {
             text: "Brandywine Bridge",
             textColor: "blue", 
             offsetX: 0,
-            offsetY: 20,
+            offsetY: 10,
             font: "bold 20px Calibri,sans serif",
         },
 
