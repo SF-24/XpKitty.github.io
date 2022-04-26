@@ -79,11 +79,11 @@ UnminedCustomMarkers = {
         {
             x: 375,
             z: -440,
-            image: "custom2.pin.png",
+            image: "custom4.pin.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.5,
             text: "Newbury",
-            textColor: "black", 
+            textColor: "blue", 
             offsetX: 0,
             offsetY: 20,
             font: "bold 20px Calibri,sans serif",
