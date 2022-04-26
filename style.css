@@ -1,0 +1,28 @@
+.podtytul {
+font-size: 2vw;
+font-family: Arial;
+}
+.login {
+	text-align:right;
+	font-size: 1px;
+}
+.tytul {
+font-family: Arial;
+text-align: center;
+}
+.arial {
+	font-family: Arial;
+}
+p {
+	font-family: Arial;
+
+	font-size: 1.5vw;
+}
+li {
+	font-family: Arial;
+	font-size: 1.28vw;
+}
+.buy {
+	font-size: 35px;
+	font-family: Arial;
+}
