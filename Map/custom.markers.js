@@ -106,7 +106,7 @@ UnminedCustomMarkers = {
             image: "custom3.pin.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.2,
-            text: "The Drunken Orc Bree Tavern",
+            text: "The Drunken Orc\nBree Tavern",
             textColor: "black", 
             offsetX: 0,
             offsetY: -20,
