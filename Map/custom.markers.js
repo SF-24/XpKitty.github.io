@@ -75,7 +75,7 @@ UnminedCustomMarkers = {
             textColor: "black", 
             offsetX: 0,
             offsetY: 0,
-            font: "bold 15px Calibri,sans serif",
+            font: "bold 18px Calibri,sans serif",
         },
 		{
             x: -228,
@@ -87,7 +87,7 @@ UnminedCustomMarkers = {
             textColor: "black", 
             offsetX: 0,
             offsetY: 0,
-            font: "bold 15px Calibri,sans serif",
+            font: "bold 18px Calibri,sans serif",
         },
         {
             x: 375,
@@ -99,7 +99,7 @@ UnminedCustomMarkers = {
             textColor: "black", 
             offsetX: 0,
             offsetY: 0,
-            font: "bold 15px Calibri,sans serif",
+            font: "bold 18px Calibri,sans serif",
         },
 	//{
        //     x: 565,
