@@ -9,6 +9,6 @@ var UnminedMapProperties = {
     maxRegionX: 10,
     maxRegionZ: 490,
     worldName: "Flat",
-    background: "8CC504",
+    background: "8BC505",
     markers: new Array()
 }
