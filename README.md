@@ -1,2 +1,2 @@
 # XpKitty.github.io
-KittensCraft Website
+Just a little experiment I've been doing
